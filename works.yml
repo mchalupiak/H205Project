@@ -1,0 +1,86 @@
+mivg:
+  type: chapter
+  title: Music in Video Games
+  author: Munday, Rod
+  date: 2007
+  publisher:
+    name: Edinburgh University Press
+    location: Edinburgh
+  page-range: 51-67
+  parent:
+    title: "Music, Sound and Multimedia: From the Live to the Virtual"
+    author: Sexton, Jamie
+
+hsw:
+  type: chapter
+  title: "Hearing Storyworlds: How Video Games Use Sound to Convey Narrative"
+  author: Domsch, Sebastian
+  date: 2016
+  page-range: 185-198
+  parent:
+    title: "Audionarratology: Interfaces of Sound and Narrative"
+    editor: ["Mildorf, Jarmila", "Kinzel, Till"]
+    publisher:
+      name: De Gruyter
+
+vmo:
+  type: thesis
+  title: "The Virtual-Musical Other: Creating Unique Worlds Through Musical Sound in Videogames"
+  author: French, Jeremiah Sundance
+  date: 2014-05
+  organization: University of Hawai'i at Manoa
+  publisher: University of Hawai'i at Manoa
+
+sn:
+  type: article
+  title: "Stray Notes: Yann van der Cruyssen on composing soundscapes beyond human trespass"
+  url: "https://web.archive.org/web/20240908225920/https://www.lacedrecords.com/blogs/news/stray-notes-yann-van-der-cruyssen-on-composing-soundscapes-beyond-human-trespass"
+  author: Jeriaska, Jerry
+  date: 2023-01-12
+  parent:
+    type: blog
+    title: The Ongaku
+
+avsd:
+  type: article
+  author: ["Kafili, Dorsa", "Brennan, AnnMarie"]
+  title: "Architectonics of Videogame Sound Design: The Use of Sound and Music in Creating Immersive Virtual Spaces"
+  page-range: 439-466
+  date: 2024
+  serial-number:
+    doi: "10.1080/20507828.2025.2530892"
+  parent:
+    type: periodical
+    title: Architecture and Culture
+    volume: 12
+    issue: 3-4
+    publisher:
+      name: Routledge
+
+sdam:
+  type: article
+  author: Luersen, Eduardo
+  title: "Sound Design and Audiovisual Memory in the Instantiation of Digital Game Worlds: An Essay on Iconophonics"
+  date: 2024
+  parent:
+    type: periodical
+    title: Syn-Thèses
+    issue: 15
+    publisher:
+      name: School of French at Aristotle University of Thessaloniki  
+  serial-number:
+    doi: "10.26262/st.v0i15.10095"
+
+cld:
+  type: article
+  author: Evans, Monica
+  title: "Cozy Little Dystopias: Cyberpunk Mechanics, Aesthetics and Themes in Independent Digital Games"
+  volume: 53
+  issue: 148
+  page-range: 39-57
+  date: 2024
+  parent:
+    type: periodical
+    title: Dagenham
+    publisher:
+      name: University of Texas at Dallas
