@@ -46,13 +46,26 @@ vmo:
 sn:
   type: article
   title: "Stray Notes: Yann van der Cruyssen on composing soundscapes beyond human trespass"
-  url: "https://web.archive.org/web/20240908225920/https://www.lacedrecords.com/blogs/news/stray-notes-yann-van-der-cruyssen-on-composing-soundscapes-beyond-human-trespass"
+  url: "https://www.lacedrecords.com/blogs/blog/stray-notes-yann-van-der-cruyssen-on-composing-soundscapes-beyond-human-trespass"
   author: Jeriaska, Jerry
+  publisher: Laced Records
   date: 2023-01-12
   parent:
     type: blog
     title: The Ongaku
-
+  note: "This article is a summary of an interview with Yann Van der Cruyssen, the
+  composer of all of the music from Stray. The interview was held by a writer for
+  the Ongaku, a small multimedia outlet for videogame music news. It is unclear if
+  a recording of the original interview exists, so the reliability of this source is
+  somewhat questionble, as there is little context to many of the quotes. However, this
+  will likely be our only primary source, as the composer doesn't seem to have been featured
+  in many interviews other than this one. Van der
+  Cruyssen, in this interview, summarizes his creative process for designing the music
+  in the game. He specifically notes the music played by the guitarist (and possible
+  self-insert) Morusque, which is directly relavent to our focus on the use of diegetic
+  music in Stray. He also comments on his use of the traditional/robotic duality in music,
+  another feature which is highly relavent to our thesis."
+ 
 avsd:
   type: article
   author: ["Kafili, Dorsa", "Brennan, AnnMarie"]
@@ -68,6 +81,16 @@ avsd:
     issue: 3-4
     publisher:
       name: Routledge
+  note: "This secondary source was written by a PhD candidate at University of Melbourne,
+  along with a senior professor from the same school. While the author's field of study
+  appears to be primarily concerned with architecture, both appear credentialed and familiar
+  with gaming and game design. The paper was published in a reputable architecture journal.
+  Kafili and Brennan explore how sound design and music play a significant role in how the
+  player understands the space that they inhabit. Several games, including Stray, are mentioned
+  as case studies for how games use sound design for conveying that a game takes place in a
+  space with an atmosphere with organic and synthetic components. This article will be useful
+  as a reference for the techniques that Stray uses to set the tone throughout the game, as
+  well as techniques that games in general use to create atmosphere."
 
 sdam:
   type: article
@@ -82,6 +105,13 @@ sdam:
       name: School of French at Aristotle University of Thessaloniki  
   serial-number:
     doi: "10.26262/st.v0i15.10095"
+  note: "This secondary source was written by a art professor at the University of Konstanz.
+  Luersen discusses how sound design in games is often reflective of the surrounding musical
+  culture. Game composers use 'technocultural' motifs to convey more complex themes that
+  the listener/player is already familiar with from a larger cultural context. Game designers
+  use these auido effects as shorthand to call upon certain aesthetic ideas. This source might
+  be useful for exploring how some techniques that Stray uses act as shorthand for calling to
+  mind concepts that the listener associates with 'robotic' or 'organic'."
 
 cld:
   type: article
