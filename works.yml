@@ -10,7 +10,7 @@ mivg:
   parent:
     title: "Music, Sound and Multimedia: From the Live to the Virtual"
     editor: Sexton, Jamie
-  note: "This source explores how music in video games is used to convey meaning.
+  note: "This secondary source explores how music in video games is used to convey meaning.
     In particular, it has subheadings which explore how music conveys the gameworld 
     how music conveys narrative, both of which are directly relevant to the arguments
     we anticipate making. This source exists as part of a \"Video-Game Music\" section
@@ -28,7 +28,8 @@ hsw:
     editor: ["Mildorf, Jarmila", "Kinzel, Till"]
     publisher:
       name: De Gruyter
-  note: "This source also deals with how videos games convey narratives with music.
+  note: "This secondary source is a chapter from a book on sound and its use to convey narratives.
+    This chapter specifically deals with how videos games convey narratives with music.
     In particular, it discusses how diegetic music in video games is used to create 
     an immersive gameworld and give meaning to the virtualized environment."
 
@@ -39,7 +40,9 @@ vmo:
   date: 2014-05
   organization: University of Hawai'i at Manoa
   publisher: University of Hawai'i at Manoa
-  note: "This source focuses on musical approaches in several post-apocalytic video games.
+  note: "This secondary source is a masters thesis from the Univeristy of Hawai'i (their spelling).
+    Although potentially less reliable, it seems especially relevant to our topic.
+    It focuses on musical approaches in several post-apocalytic video games.
     It looks at how pre-existing music is recontextualized into a futuristic context
     and the ways in which that conveys narrative. It examines both diegetic and extra-diegetic music."
 
