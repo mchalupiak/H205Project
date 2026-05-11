@@ -1,1 +1,29 @@
-#bibliography("works.yml", style: "apa", full: true)
+#import "template.typ": *
+#show: apa
+
+#set document(
+  title: [Title goes here. Dont leave this one],
+  author: ("Luke Buchanan", "Michael Chalupiak", "Sam Zech"),
+  date: datetime(
+    year: 2026,
+    month: 5,
+    day: 22,
+  ),
+)
+
+#titlepage(
+  affiliation: "Department of Humanities, Social Sciences, and the Arts,
+  Rose-Hulman Institude of Technology",
+  course: "MUSI H205: Ludomusicology: The Study of Video Game Music",
+  instructor: "Dr. David Chapman",
+)
+
+This is how you cite a source @sn. Punctuation goes after the inline citation.
+
+#lorem(200)
+
+#lorem(50)
+
+#pagebreak()
+
+#bibliography("works.yml")
