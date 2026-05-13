@@ -30,7 +30,7 @@
 
   set bibliography(
     title: heading(depth: 2)[References],
-    full: true,
+    full: false,
     style: "apa",
   )
   show bibliography: set par(
