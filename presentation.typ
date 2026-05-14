@@ -16,7 +16,6 @@
   title: [Diegetic Music in _Stray_],
   subtitle: [An exploration of world-building],
   authors: "Luke Buchanan, Michael Chalupiak, Sam Zech",
-  // info: [#link("https://github.com/manjavacas/typslides")],
 )
 
 #slide(title: "Background")[
@@ -27,7 +26,9 @@
   // - plant watering robot?
   // - themes of robots representing humanity, in particular their culture is derivative
   // (~30s-1m)
-  #image("imgs/plantwatering.png")
+  #align(center)[
+    #image("imgs/plantwatering.png")
+  ]
 ]
 
 #slide(title: "Robot's Musical Culture")[
@@ -35,7 +36,9 @@
   // - central focus of diegetic music, which communicates the musical culture of the robots
   // - musical culture of the robots communicates human and none human elements, as well as the world around them (mention briefly)
   // (~30s-1m)
-  #image("imgs/mingas_jonging.png")
+  #align(center)[
+    #image("imgs/mingas_jonging.png")
+  ]
 ]
 
 #slide(title: "Radio Music")[
@@ -45,7 +48,11 @@
   // - the music feels like emergent culture from the robot's society; in other words once being immersed in the game makes the music feel natural
   // - maybe ~30s for each of several instances of radio music
   // - (~3m talking, ~1m-2m music)
-  #image("imgs/jukebox.png")
+  #align(center)[
+    #image(height:80%,"imgs/jukebox.png")
+  ]
+  - #link("https://youtu.be/5wRSsU5iU6Y")[Tomorrows]: Bluesy/folk rock sound
+  - #link("https://youtu.be/CXJqNYZ-EvI")[Glitchy]: Robots interpret this as music
 ]
 
 #slide(title: "Musical Performance")[
@@ -59,7 +66,12 @@
   // - "untitled" is also not physically possible on the guitar
   // - playing music that's on the radio, implying a musical culture
   // - (~3m talking, ~1m-2m music)
-  #image("imgs/morusque.jpg")
+  #align(center)[
+    #image(height:70%,"imgs/morusque.jpg")
+  ]
+  - #link("https://youtu.be/cc1MKKgJ_JQ&t=0s")[Petit Vals]: Classical guitar piece _à la_ Francisco Tárrega
+  - #link("https://youtu.be/cc1MKKgJ_JQ&t=295s")[Tomorrows]: Cover of a radio tune
+  - #link("https://youtu.be/cc1MKKgJ_JQ&t=160")[Untitled]: Contains exactly 44 notes
 ]
 
 #slide(title: "Underground Music")[
@@ -70,8 +82,13 @@
   // - music sounds spliced and remixed
   // - music in jacket store representative of developing musical culture ("back in my day" ah minga)
   // - brief mention of djs, how they look like daft punk (ming ming)
-  // - (-3m talking, ~2m-3m music)
-  #image("imgs/dancers.png")
+  // - (~3m talking, ~2m-3m musics)
+  #align(center)[
+    #image(height:80%, "imgs/dancers.png")
+  ]
+
+  - #link("https://youtu.be/DPW8qWReSoY&t=33")[Mixtape]: Use of sampling/remixing techniques
+  - #link("https://youtu.be/-BsEODV3jK8?t=379")[DJ Set]: Loud music
 ]
 
 #slide(title: "Conclusion")[
@@ -79,5 +96,7 @@
   // different elements in the game characterize the robots as having unique musical culture
   // their culture is in some ways new, in some ways a reflection of their environment, and in some ways a continuation of the humans
   // - (~30s)
-  #image("imgs/djs.webp")
+  #align(center)[
+    #image("imgs/djs.webp")
+  ]
 ]
