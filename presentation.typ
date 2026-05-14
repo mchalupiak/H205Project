@@ -27,6 +27,7 @@
   // - plant watering robot?
   // - themes of robots representing humanity, in particular their culture is derivative
   // (~30s-1m)
+  #image("imgs/plantwatering.png")
 ]
 
 #slide(title: "Robot's Musical Culture")[
@@ -34,6 +35,7 @@
   // - central focus of diegetic music, which communicates the musical culture of the robots
   // - musical culture of the robots communicates human and none human elements, as well as the world around them (mention briefly)
   // (~30s-1m)
+  #image("imgs/mingas_jonging.png")
 ]
 
 #slide(title: "Radio Music")[
@@ -43,6 +45,7 @@
   // - the music feels like emergent culture from the robot's society; in other words once being immersed in the game makes the music feel natural
   // - maybe ~30s for each of several instances of radio music
   // - (~3m talking, ~1m-2m music)
+  #image("imgs/jukebox.png")
 ]
 
 #slide(title: "Musical Performance")[
@@ -56,6 +59,7 @@
   // - "untitled" is also not physically possible on the guitar
   // - playing music that's on the radio, implying a musical culture
   // - (~3m talking, ~1m-2m music)
+  #image("imgs/morusque.jpg")
 ]
 
 #slide(title: "Underground Music")[
@@ -67,6 +71,7 @@
   // - music in jacket store representative of developing musical culture ("back in my day" ah minga)
   // - brief mention of djs, how they look like daft punk (ming ming)
   // - (-3m talking, ~2m-3m music)
+  #image("imgs/dancers.png")
 ]
 
 #slide(title: "Conclusion")[
@@ -74,4 +79,5 @@
   // different elements in the game characterize the robots as having unique musical culture
   // their culture is in some ways new, in some ways a reflection of their environment, and in some ways a continuation of the humans
   // - (~30s)
+  #image("imgs/djs.webp")
 ]
