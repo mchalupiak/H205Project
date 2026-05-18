@@ -20,9 +20,15 @@
 
 This is how you cite a source @sn. Punctuation goes after the inline citation.
 
-#lorem(200)
+#include "sections/intro.typ"
 
-#lorem(50)
+#include "sections/radio.typ"
+
+#include "sections/guitar.typ"
+
+#include "sections/dance.typ"
+
+#include "sections/outro.typ"
 
 #pagebreak()
 
