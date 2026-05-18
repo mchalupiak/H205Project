@@ -2,7 +2,7 @@
 #show: apa
 
 #set document(
-  title: [Title goes here. Dont leave this one],
+  title: [How Musical Culture in _Stray_ Humanizes Robots],
   author: ("Luke Buchanan", "Michael Chalupiak", "Sam Zech"),
   date: datetime(
     year: 2026,
@@ -17,8 +17,6 @@
   course: "MUSI H205: Ludomusicology: The Study of Video Game Music",
   instructor: "Dr. David Chapman",
 )
-
-This is how you cite a source @sn. Punctuation goes after the inline citation.
 
 #include "sections/intro.typ"
 
