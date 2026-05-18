@@ -20,7 +20,7 @@
 
 #slide(title: "Background")[
   // Background of the game
-  // - Stray takes place in an enclosed 
+  // - Stray takes place in an enclosed city
   // - All humans are gone (have been gone)
   // - robots, known as companions, have taken the mantle of humanity
   // - plant watering robot?
@@ -31,7 +31,7 @@
   ]
 ]
 
-#slide(title: "Robot's Musical Culture")[
+#slide(title: "Robot Musical Culture")[
   // Introduce main argument
   // - central focus of diegetic music, which communicates the musical culture of the robots
   // - musical culture of the robots communicates human and none human elements, as well as the world around them (mention briefly)
