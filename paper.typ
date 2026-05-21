@@ -11,12 +11,18 @@
   ),
 )
 
-#titlepage(
-  affiliation: "Department of Humanities, Social Sciences, and the Arts,
-  Rose-Hulman Institude of Technology",
-  course: "MUSI H205: Ludomusicology: The Study of Video Game Music",
-  instructor: "Dr. David Chapman",
-)
+// #titlepage(
+//   affiliation: "Department of Humanities, Social Sciences, and the Arts,
+//   Rose-Hulman Institude of Technology",
+//   course: "MUSI H205: Ludomusicology: The Study of Video Game Music",
+//   instructor: "Dr. David Chapman",
+// )
+
+#title()
+#align(center)[
+Luke Buchanan, Michael Chalupiak, Sam Zech\
+
+]
 
 #include "sections/intro.typ"
 

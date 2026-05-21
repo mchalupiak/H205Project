@@ -20,6 +20,9 @@
     )
   )
 
+  show title: set text(size: 11pt)
+  show title: set align(center)
+  show title: set block(spacing: 1.5em)
   show heading: set text(size: 11pt)
   show heading: set block(spacing: 1.5em)
   show heading.where(level: 1): set align(center)
