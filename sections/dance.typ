@@ -1,6 +1,3 @@
-#import "../template.typ": *
-#show: apa
-
 Composition is a key component of any musical culture. No musical culture can
 survive off of merely recycling existing material, even if that material is a
 major influence in the culture. This is true in _Stray_ as well. The most
@@ -66,5 +63,3 @@ influenced by their identity as robots. All of these factors combine to make
 music influenced by identity, history, and environment. That music can be
 considered part of a broader musical culture which is influenced by those same
 factors.
-
-#bibliography("../works.yml", style: "apa")
