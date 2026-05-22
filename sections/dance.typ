@@ -1,4 +1,4 @@
-Composition is a key component of any musical culture. No musical culture can
+Composition is another key component of any musical culture. No musical culture can
 survive off of merely recycling existing material, even if that material is a
 major influence in the culture. This is true in _Stray_ as well. The most
 prominent example of composition that the player encounters in _Stray_ is three

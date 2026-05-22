@@ -29,22 +29,22 @@ suggest a more sparse melody or a finger-style technique. In an interview, Van
 der Cruyssen justifies this stylistic approach as an imitation of human music, 
 now appearing "distant" and "rusty" @sn.
 
-The not-quite-human style of the instrumentalist are even more present in the 
-individual pieces that he performs. The first of the numbered sheets of music 
-is titled "Petite valse" and is a waltz played in a classical guitar style @
-gameplay[1:47:53]. The piece bears a striking resemblance to to music of 
-Spanish classical guitarist Francisco Tárrega, especially his well known 
-composition _Gran Vals_. By alluding to human classical music, the game music 
-suggests that inspiration has been drawn from the classical music of human in 
-the creation of new music by the robots. Another performance, "Tomorrows", is 
-notable as one of the songs that can be heard playing on various radios 
-throughout the game @gameplay[1:45:30]. The version heard on the radio 
-features the sound of robotic singing, but Morusque's version contains the 
-melody and rhythm entirely in the guitar part. This suggests that the piece of 
-sheet music is actually a cover version, a replaying of an existing piece of 
-music. The acts of drawing inspiration from both classical music and popular 
-radio music continues to characterize this diegetic tracks as aspects of a 
-thriving musical culture, one which draws from the human culture it mirrors, 
+The not-quite-human style of the instrumentalist are even more present in the
+individual pieces that he performs. The first of the numbered sheets of music
+is titled "Petite valse" and is a waltz played in a classical guitar style
+@gameplay[1:47:53]. The piece bears a striking resemblance to to music of
+Spanish classical guitarist Francisco Tárrega, especially his well known
+composition _Gran Vals_. By alluding to human classical music, the game music
+suggests that inspiration has been drawn from the classical music of human in
+the creation of new music by the robots. Another performance, "Tomorrows", is
+notable as one of the songs that can be heard playing on various radios
+throughout the game @gameplay[1:45:30]. The version heard on the radio
+features the sound of robotic singing, but Morusque's version contains the
+melody and rhythm entirely in the guitar part. This suggests that the piece of
+sheet music is actually a cover version, a replaying of an existing piece of
+music. The acts of drawing inspiration from both classical music and popular
+radio music continues to characterize this diegetic tracks as aspects of a
+thriving musical culture, one which draws from the human culture it mirrors,
 but is continuing to develop in its own unique manner. 
 
 A unique piece which stand out from Morusque's other performances is 
