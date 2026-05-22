@@ -5,7 +5,7 @@ prominent example of composition that the player encounters in _Stray_ is three
 break dancing robots, named Jeanma, Miko, and Simon, in an apartment complex
 within the Midtown level. When first interacting with these characters, they
 lament the recently installed security cameras which prevent them from
-performing their dance routine in the complex. The player can then knock down
+performing their dance routine in the complex @gameplay[4:12:42-4:16:55]. The player can then knock down
 these cameras and the robots will begin dancing and playing music. Simon will
 also reward the player with a cassette tape containing their most recent music.
 Their music evokes human and nonhuman elements like much of _Stray_'s other
@@ -22,9 +22,9 @@ that the security state would be cracking down on them. Another more
 interesting example of this takes place shortly after the players encounter
 with the robots in the apartment complex. After retrieving the cassette from
 Simon, the player can insert the cassette into a boombox in the back of a store
-owned by a grumpy robot named Ozi. After inserting the cassette into the
+owned by a grumpy robot named Ozi @gameplay[4:17:29]. After inserting the cassette into the
 boombox, Ozi will cover his ears and rush to turn off the music, clearly having
-a distaste for the music. This is evidence of the same generational music
+a distaste for the music @gameplay[4:18:04]. This is evidence of the same generational music
 differences that people are familiar with today @gdmp. The stereotypical
 "Music back in my day" attitude appears just as present in the world of _Stray_
 as it has even been. This further supports the idea that robots have their own
@@ -45,7 +45,7 @@ end of Midtown. The music in question a remix of the music on the cassette that
 the player received earlier. Both the original and the remix are in the
 techno/house music style, with a super loud, thumping base and a lot of
 synthesized instrumentation @lsu. With its loud music, flashing lights,
-dancing holograms, and DJs scratching records, the nightclub is clearly trying
+dancing holograms, and DJs scratching records @gameplay[4:56:34], the nightclub is clearly trying
 to emulate the raves and nightclubs of today. In so doing, the nightclub is
 trying to call upon the same cultural associations that house music has in the
 modern day to counterculture and the underground @lsu. This is an example of
